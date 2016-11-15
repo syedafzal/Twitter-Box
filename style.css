@@ -1,0 +1,23 @@
+h1 {
+   text-align: center;
+}
+body{
+   text-align: center;
+}
+#count{
+	float: left;
+	margin-left: 457px;
+}
+#tweet{
+	float:right;
+	margin-right: 456px;
+}
+#image{
+	margin-left: 300px;
+}
+button{
+	padding:5px;
+	background-color:#5b9bd5;
+	border-radius: 7px;
+	box-shadow: none;
+}
